@@ -133,30 +133,6 @@ pyinstaller --onefile --windowed --name "Excel函数制作器" excel_function_ma
 
 **注意**: 由于GitHub文件大小限制，可执行文件未包含在此仓库中。
 
-## 🎨 Screenshots | 截图
-
-### Chinese Interface | 中文界面
-![Chinese Interface](screenshots/chinese_interface.png)
-
-### English Interface | 英文界面  
-![English Interface](screenshots/english_interface.png)
-
-### Function Generation | 函数生成
-![Function Generation](screenshots/function_generation.png)
-
-## 🤝 Contributing | 贡献
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-欢迎贡献代码！请查看我们的[贡献指南](CONTRIBUTING.md)了解详情。
-
-### How to Contribute | 如何贡献
-1. Fork the repository | Fork仓库
-2. Create a feature branch | 创建功能分支
-3. Make your changes | 做出更改
-4. Add tests if applicable | 添加测试（如适用）
-5. Submit a pull request | 提交拉取请求
-
 ## 📝 License | 许可证
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -185,4 +161,5 @@ Made with ❤️ by [Your Name] | 由[您的姓名]用❤️制作
 <p align="center">
 <a href="#top">Back to Top | 返回顶部</a>
 </p>
+
 
