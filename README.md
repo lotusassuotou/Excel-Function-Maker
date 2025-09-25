@@ -144,13 +144,6 @@ pyinstaller --onefile --windowed --name "Excel函数制作器" excel_function_ma
 ### Function Generation | 函数生成
 ![Function Generation](screenshots/function_generation.png)
 
-## 📄 Documentation | 文档
-
-- [English Documentation](docs/README_EN.md)
-- [中文文档](docs/README_CN.md)
-- [API Reference](docs/API.md)
-- [Development Guide](docs/DEVELOPMENT.md)
-
 ## 🤝 Contributing | 贡献
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
@@ -169,12 +162,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 本项目采用MIT许可证 - 查看[LICENSE](LICENSE)文件了解详情。
-
-## 📞 Support | 支持
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/excel-function-maker/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/excel-function-maker/discussions)
-- **Email**: your-email@example.com
 
 ## 🙏 Acknowledgments | 致谢
 
@@ -198,3 +185,4 @@ Made with ❤️ by [Your Name] | 由[您的姓名]用❤️制作
 <p align="center">
 <a href="#top">Back to Top | 返回顶部</a>
 </p>
+
